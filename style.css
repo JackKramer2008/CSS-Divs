@@ -1,0 +1,19 @@
+#title {
+color: blue;
+text-align: center;
+font-family:Georgia;
+}
+
+.group1 {
+    background-color: aqua;
+}
+
+.subtitle {
+    font-family:Georgia;
+    color: blue;
+}
+
+#emphasis {
+font-weight: bold;
+font-family: Impact;
+}
