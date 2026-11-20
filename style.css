@@ -1,11 +1,30 @@
+* {
+    box-sizing: border-box;
+}
 #title {
-color: blue;
-text-align: center;
-font-family:Georgia;
+    color: blue;
+    text-align: center;
+    font-family:Georgia;
+    border: 2px double blue;
+    border-radius: 8px;
 }
 
 .group1 {
     background-color: aqua;
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border: 2px double blue;
+    border-radius: 8px;
+}
+
+.group2 {
+    background-color: aqua;
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+    margin-bottom: 30px;
 }
 
 .subtitle {
@@ -14,6 +33,6 @@ font-family:Georgia;
 }
 
 #emphasis {
-font-weight: bold;
-font-family: Impact;
+    font-weight: bold;
+    font-family: Impact;
 }
